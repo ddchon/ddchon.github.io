@@ -1,0 +1,97 @@
+body {
+    background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png")
+}
+
+.headerImg {
+    background-image: url("https://images.unsplash.com/photo-1554120013-4ba50c1a1788?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80://images.pexels.com/photos/1936299/pexels-photo-1936299.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    width: 100%;
+    height: 30em;
+    background-repeat: no-repeat;
+}
+
+.HeaderText {
+    text-align: center;
+    font-family: Century Gothic, sans-serif;
+    color: black;
+    padding: 200px;
+}
+
+img.card-img {
+    border-radius: 50%;
+    width: 100%;
+    padding: 50px;
+    align-content: center;
+}
+
+img.proficiency-icons {
+    align-content: center;
+}
+
+.aboutme {
+    width:100%; 
+    padding: 30px;
+    border: 5px;
+    border-color: black;
+}
+
+img.info-icons {
+    align-content: center;
+    margin: 2em auto;
+}
+
+.project_title {
+    text-align: center;
+}
+
+.project_thumbnails {
+    width: 100%;
+    height: 15em;
+    border-radius: 15%;
+}
+
+#under_construction_thumbnail {
+    width: 100%;
+    height: 15em;
+    border-radius: 15%
+}
+
+.css_creature {
+    float: left;
+}
+
+.oop_challenge {
+    float: left;
+}
+
+
+p {
+    font-size: 16pt;
+    font-weight: bold;
+    text-align: center;
+}
+
+.register-card {
+    padding: 0%;
+    margin: 5%;
+    text-align: center;
+}
+
+.form-field {
+    width: 50%;
+    height: 30px;
+    margin-top: 2px;
+    text-align: center;
+}
+
+#register-button {
+    display: block;
+    margin: 1em auto;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 14pt;
+    width: 50%;
+}
