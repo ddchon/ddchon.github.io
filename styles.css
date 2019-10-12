@@ -23,8 +23,9 @@ img.card-img {
     align-content: center;
 }
 
-img.proficiency-icons {
-    align-content: center;
+.proficiency-icons {
+    display: flex;
+    justify-content: center;
 }
 
 .aboutme {
@@ -34,9 +35,9 @@ img.proficiency-icons {
     border-color: black;
 }
 
-img.info-icons {
-    align-content: center;
-    margin: 2em auto;
+.info-icons {
+    display: flex;
+    justify-content: center;
 }
 
 .project_title {
